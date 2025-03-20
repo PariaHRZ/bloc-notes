@@ -17,7 +17,7 @@ Un petit projet de bloc-notes en ligne permettant d'écrire et d'exporter des no
 
 ## 📸 Aperçu 
 
-![Aperçu du projet](https://github.com/user-attachments/assets/5acbd79e-5a68-40d1-9e9b-44545c4c3fdb)
+![Aperçu du projet](https://github.com/user-attachments/assets/b6dd1b6e-bb7d-4b16-b80c-5c56340160dd)
 
 
 ---
