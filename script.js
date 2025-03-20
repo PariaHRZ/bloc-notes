@@ -1,23 +1,23 @@
 document.addEventListener("DOMContentLoaded", function () {
     let note = document.getElementById("note");
-    let exportBtn = document.getElementById("exportBtn");
+    let boutonexport = document.getElementById("boutonexport");
 
-    // Charger la note enregistrée si elle existe
+    // chargement de la note en local
     note.value = localStorage.getItem("savedNote") || "";
 
-    // Sauvegarder la note à chaque modification
+    // sauvgarde en local
     note.addEventListener("input", function () {
         localStorage.setItem("savedNote", note.value);
     });
 
-    // Fonction pour exporter en .txt
-    exportBtn.addEventListener("click", function () {
+    // exportation
+    boutonexport.addEventListener("click", function () {
         let textToSave = note.value;
         let blob = new Blob([textToSave], { type: "text/plain" });
         let link = document.createElement("a");
 
         link.href = URL.createObjectURL(blob);
-        link.download = "Ma_Note.txt";
+        link.download = "Note.txt";
         link.click();
     });
 });
