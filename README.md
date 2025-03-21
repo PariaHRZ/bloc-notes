@@ -19,7 +19,3 @@ Un petit projet de bloc-notes en ligne permettant d'écrire et d'exporter des no
 
 ![Aperçu du projet](https://github.com/user-attachments/assets/b6dd1b6e-bb7d-4b16-b80c-5c56340160dd)
 
-
----
-
-✨ Amusez-vous bien en codant ! ✨
