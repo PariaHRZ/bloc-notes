@@ -19,3 +19,11 @@ Un petit projet de bloc-notes en ligne permettant d'écrire et d'exporter des no
 
 ![Aperçu du projet](https://github.com/user-attachments/assets/b6dd1b6e-bb7d-4b16-b80c-5c56340160dd)
 
+
+## 🔗 Démo
+
+🔗 [https://pariahrz.github.io/bloc-notes/](https://pariahrz.github.io/bloc-notes/)
+
+OU
+
+<img src="https://github.com/user-attachments/assets/91957e51-a537-4152-bc1b-925735c62bde" width="450"/>
